@@ -1,2 +1,2 @@
 # Intro to ML
- My first submission results from the Intro to Machine Learning course on Kaggle.
+ My submission results from exercises in the Intro and Intermediate Machine Learning course on Kaggle. 
